@@ -1,0 +1,31 @@
+.jumbotron h1{
+    color:rgb(226, 29, 29);
+}
+.team-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card{
+    margin:10px 10px ;
+
+}
+.card-title{
+    text-align: center;
+    color:rgb(228, 228, 228);
+}
+.card{
+    background-color: rgba(128, 128, 128, 0.24);
+    
+}
+.manager{
+    background-color: rgb(5, 30, 253);
+    
+}
+.engineer{
+    background-color: rgb(29, 106, 141);
+}
+.intern{
+    background-color: rgb(95, 101, 104);
+}
